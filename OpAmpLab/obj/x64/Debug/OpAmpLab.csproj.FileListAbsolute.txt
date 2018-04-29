@@ -1,0 +1,7 @@
+C:\Users\Mendoza\Documents\Visual Studio 2013\Projects\OpAmpLab\OpAmpLab\bin\OpAmpLab.dll.config
+C:\Users\Mendoza\Documents\Visual Studio 2013\Projects\OpAmpLab\OpAmpLab\bin\OpAmpLab.dll
+C:\Users\Mendoza\Documents\Visual Studio 2013\Projects\OpAmpLab\OpAmpLab\bin\OpAmpLab.pdb
+C:\Users\Mendoza\Documents\Visual Studio 2013\Projects\OpAmpLab\OpAmpLab\obj\x64\Debug\OpAmpLab.csprojResolveAssemblyReference.cache
+C:\Users\Mendoza\Documents\Visual Studio 2013\Projects\OpAmpLab\OpAmpLab\obj\x64\Debug\OpAmpLab.dll.licenses
+C:\Users\Mendoza\Documents\Visual Studio 2013\Projects\OpAmpLab\OpAmpLab\obj\x64\Debug\OpAmpLab.dll
+C:\Users\Mendoza\Documents\Visual Studio 2013\Projects\OpAmpLab\OpAmpLab\obj\x64\Debug\OpAmpLab.pdb

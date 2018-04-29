@@ -1,0 +1,10 @@
+c:\users\mendoza\documents\visual studio 2013\Projects\OpAmpLab\OpAmpLab\bin\OpAmpLab.dll.config
+c:\users\mendoza\documents\visual studio 2013\Projects\OpAmpLab\OpAmpLab\bin\OpAmpLab.dll
+c:\users\mendoza\documents\visual studio 2013\Projects\OpAmpLab\OpAmpLab\bin\OpAmpLab.pdb
+c:\users\mendoza\documents\visual studio 2013\Projects\OpAmpLab\OpAmpLab\bin\NationalInstruments.UI.Styles3D.dll
+c:\users\mendoza\documents\visual studio 2013\Projects\OpAmpLab\OpAmpLab\obj\Debug\OpAmpLab.csprojResolveAssemblyReference.cache
+c:\users\mendoza\documents\visual studio 2013\Projects\OpAmpLab\OpAmpLab\obj\Debug\OpAmpLab.dll.licenses
+c:\users\mendoza\documents\visual studio 2013\Projects\OpAmpLab\OpAmpLab\obj\Debug\OpAmpLab.dll
+c:\users\mendoza\documents\visual studio 2013\Projects\OpAmpLab\OpAmpLab\obj\Debug\OpAmpLab.pdb
+C:\Users\Mendoza\Documents\Visual Studio 2013\Projects\OpAmpLab\OpAmpLab\bin\NationalInstruments.DAQmx.dll
+C:\Users\Mendoza\Documents\Visual Studio 2013\Projects\OpAmpLab\OpAmpLab\bin\NationalInstruments.DAQmx.xml
